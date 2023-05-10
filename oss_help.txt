@@ -1,0 +1,5 @@
+oss login
+
+oss ls
+
+oss cp oss://datasets/个人数据.zip /hy-tmp/
